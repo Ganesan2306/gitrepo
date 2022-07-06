@@ -1,0 +1,26 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 103F-7A51
+
+ Directory of D:\TI\TI_PROD
+
+15-07-2021  12:01    <DIR>          .
+15-07-2021  12:01    <DIR>          ..
+14-07-2021  19:47    <DIR>          admindata_import_export
+15-07-2021  12:01    <DIR>          admin_data
+11-05-2021  18:31            13,198 DPCI_OBJ_OUTPUT.csv
+11-05-2021  16:31             2,575 DUPI_item
+23-06-2021  16:39    <DIR>          item
+01-06-2021  17:08        28,566,528 items_list.xls
+21-06-2021  12:29    <DIR>          item_import_export
+30-06-2021  18:22    <DIR>          MSA
+22-06-2021  14:43           887,837 MSA_Doc.docx
+08-06-2021  10:03    <DIR>          ownership_ref
+13-07-2021  15:31    <DIR>          Preference
+13-07-2021  16:01           358,912 PROD_TC Admin objects consolidation_all_sites.xls
+13-07-2021  15:31            13,312 relation.xls
+28-06-2021  18:46               380 TI_Home_Folder_Export.bat
+28-06-2021  18:49    <DIR>          TI_Home_Folder_Import_export
+02-07-2021  16:24    <DIR>          volume
+22-06-2021  15:11    <DIR>          Workflow
+               7 File(s)     29,842,742 bytes
+              12 Dir(s)  97,999,585,280 bytes free
